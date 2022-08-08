@@ -1,0 +1,1 @@
+char* test_function( char *str );
